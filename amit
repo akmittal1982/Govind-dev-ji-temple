@@ -1,0 +1,7 @@
+echo "# Govind-dev-ji-temple" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin http://103.219.212.14:8086/0.m3u8
+git push -u origin main
